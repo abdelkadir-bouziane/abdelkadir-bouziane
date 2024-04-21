@@ -4,12 +4,6 @@
 
 Currently I am working as a full-time <strong>Full-stack web developer</strong> using <strong>React js</strong> for the front and <strong>Fast API</strong> for the back. I am using TypeScript, Python, SQLAlchemy, Agile Methodologies (Scrum), Redux.js, Unit Testing with Jest, Tailwind CSS, Material-UI and Git.
 
-### Connect with me on LinkedIn
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelkadir-bouziane-2a7a37205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelkadir's Linkedin profile" height="30" width="40" /></a>
-</p>
-<br/>
-
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
