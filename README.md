@@ -2,12 +2,11 @@
 
 ##  Hi, I am a React JS Front-End Web Developer 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>Full-stack web developer</strong> using <strong>React js</strong> for the front and <strong>Fast API</strong> for the back. I am using TypeScript, Python, SQLAlchemy, Agile Methodologies (Scrum), Redux.js, Unit Testing with Jest, Tailwind CSS, Material-UI and Git.
+Currently I am working as a full-time <strong>Full-stack web developer</strong> using <strong>React js</strong> for the front and <strong>Fast API</strong> for the back. I am using TypeScript, Python, SQLAlchemy, Agile Methodologies (Scrum), Redux.js, Unit Testing with Jest, Tailwind CSS, Material-UI and Git.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
+### Connect with me on LinkedIn
 <p align="left">
-
-<a href="https://www.linkedin.com/in/abdelkadir-bouziane-2a7a37205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kritika's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelkadir-bouziane-2a7a37205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelkadir's Linkedin profile" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -25,18 +24,10 @@
 </p>
 <br />
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My activity on github:
 
-## Always a student:
-
-- Keeping myself updated with React course, Namastey React by Akshay Saini.
-
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=abdelkadir-bouziane&count_private=true&theme=dracula&show_icons=true)
+![Abdelkadir's Github Stats](https://github-readme-stats.vercel.app/api?username=abdelkadir-bouziane&count_private=true&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkadir-bouziane)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdelkadir-bouziane)
-
-[twitter]: https://twitter.com/kritikasri27
-[linkedin]: https://www.linkedin.com/in/kritika-srivastava
-[dev]: https://dev.to/abdelkadir-bouziane
-[github]: https://github.com/abdelkadir-bouziane
